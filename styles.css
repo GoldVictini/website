@@ -2,9 +2,14 @@ body {
   background-color: powderblue;
 }
 
-reuniclus {
+#reuniclus {
   position: absolute;
   left: 100px;
   top: 100px;
 }
 
+#zoroaster {
+  position: absolute;
+  left: 140px;
+  top: 140px;
+}
