@@ -25,15 +25,19 @@
     <img id = "zoroaster"
       src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Yazd%2C_Templo_del_Fuego_%282000%29_02_%28cropped%29.jpg"
       width="200" height="400"
-      onclick = " this.style.display = 'none'; " 
+      onclick = " hide('zoroaster') " 
+      <!-- onclick = " this.style.display = 'none'; "  -->
     >
     
 
 
     <script>
+      let score = "";
       function hide(pic) {
         var el = document.getElementById(pic);
         el.style.display = "none";
+        score += pic
+        console.log(score);
       }
 
     </script>
