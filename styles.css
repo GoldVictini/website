@@ -22,3 +22,11 @@ body {
   top: 80px;
   z-index: 5;
 }
+
+
+#frog {
+  position: absolute;
+  left: 60px;
+  top: 240px;
+  z-index: 4;
+}
