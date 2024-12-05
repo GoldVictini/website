@@ -6,21 +6,28 @@ body {
   position: absolute;
   left: 160px;
   top: 160px;
-  z-index: 3;
+  z-index: 4;
 }
 
 #zoroaster {
   position: absolute;
   left: 80px;
   top: 80px;
-  z-index: 2;
+  z-index: 3;
+}
+
+#wooper {
+  position: absolute;
+  left: 20px;
+  top: 100px;
+  z-index: 6;
 }
 
 #jit {
   position: absolute;
   left: 200px;
   top: 80px;
-  z-index: 5;
+  z-index: 7;
 }
 
 
@@ -28,5 +35,13 @@ body {
   position: absolute;
   left: 60px;
   top: 240px;
-  z-index: 4;
+  z-index: 8;
+}
+
+
+#hubert {
+  position: absolute;
+  left: 400px;
+  top: 300px;
+  z-index: 2;
 }
