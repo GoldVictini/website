@@ -44,3 +44,11 @@ body {
   top: 300px;
   z-index: 2;
 }
+
+#cat {
+  position: absolute;
+  left: 700px;
+  top: 200px;
+  z-index: 1;
+}
+
