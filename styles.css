@@ -13,7 +13,7 @@ body {
   position: absolute;
   left: 80px;
   top: 80px;
-  z-index: 3;
+  z-index: 2;
 }
 
 #wooper {
@@ -40,16 +40,16 @@ body {
 
 #hubert {
   position: absolute;
-  left: 400px;
-  top: 300px;
-  z-index: 2;
+  left: 800px;
+  top: 400px;
+  z-index: 1;
 }
 
 #cat {
   position: absolute;
   left: 500px;
   top: 30px;
-  z-index: 1;
+  z-index: 2;
 }
 
 #goose {
@@ -62,7 +62,7 @@ body {
 #spongebob {
   position: absolute;
   left: 110px;
-  top: 440px;
+  top: 380px;
   z-index: 1;
 }
 
@@ -70,7 +70,7 @@ body {
   position: absolute;
   left: 300px;
   top: 450px;
-  z-index: 2;
+  z-index: 3;
 }
 
 
