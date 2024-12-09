@@ -61,8 +61,16 @@ body {
 
 #spongebob {
   position: absolute;
-  left: 40px;
-  top: 450px;
+  left: 110px;
+  top: 490px;
   z-index: 1;
 }
+
+#penguin {
+  position: absolute;
+  left: 300px;
+  top: 450px;
+  z-index: 2;
+}
+
 
