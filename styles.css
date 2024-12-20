@@ -2,6 +2,14 @@ body {
   background-color: rgb(255, 103, 0);
 }
 
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+
+
 #reuniclus {
   position: absolute;
   left: 160px;
