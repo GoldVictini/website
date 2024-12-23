@@ -8,6 +8,10 @@ body {
     object-fit: cover;
 }
 
+.stretched-button {
+  padding: 0px !important;
+  border: 0px !important;
+}
 
 
 #reuniclus {
