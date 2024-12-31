@@ -8,9 +8,13 @@ body {
     object-fit: cover;
 }
 
-.stretched-button {
-  padding: 0px !important;
-  border: 0px !important;
+.offcanvas-custom {
+  width: 30%; 
+}
+@media (max-width: 768px) {
+  .offcanvas-custom {
+    width: 100%; /* Full-width for small screens */
+  }
 }
 
 
