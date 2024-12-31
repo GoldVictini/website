@@ -9,7 +9,7 @@ body {
 }
 
 .offcanvas-custom {
-  width: 30%; 
+  width: 40%; 
 }
 @media (max-width: 768px) {
   .offcanvas-custom {
