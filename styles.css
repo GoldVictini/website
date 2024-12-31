@@ -10,10 +10,11 @@ body {
 
 .offcanvas-custom {
   width: 40% !important;
+  max-width: none !important;
 }
 @media (max-width: 768px) {
   .offcanvas-custom {
-    width: 100%; /* Full-width for small screens */
+    width: 100% !important; /* Full-width for small screens */
   }
 }
 
