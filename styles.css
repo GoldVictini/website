@@ -17,6 +17,15 @@ body {
   font-style: normal;
 }
 
+.frontpage {
+    z-index: 1;
+    position: absolute;
+    left: 208px;
+    width: 700px;
+    padding: 18px;
+}
+
+
 h1 {
   font-weight: 700;
 }
