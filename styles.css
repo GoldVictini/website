@@ -24,13 +24,13 @@ body {
     left: 200px;
     width: 500px;
     padding: 18px;
-    background-color: #F27059;
+    background-color: #F79D65;
     color: #000;
 }
 
 .leftnav {
     overflow: auto;
-    background-color: #F27059;
+    background-color: #F79D65;
     position: fixed;
     left: 0;
     padding: 12px;
@@ -40,7 +40,7 @@ body {
     list-style-type: none;
     padding-bottom: 5px;        
     margin-bottom: 5px;
-    border-bottom: 3px dotted #F27059;
+    border-bottom: 2px dotted #F27059;
 }
 
 .leftnav ul a {
