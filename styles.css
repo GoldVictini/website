@@ -28,6 +28,7 @@ body {
 }
 
 .leftnav {
+    overflow: auto;
     background-color: #F7B267;
     position: fixed;
     left: 0;
