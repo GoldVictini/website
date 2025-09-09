@@ -24,13 +24,13 @@ body {
     left: 200px;
     width: 500px;
     padding: 18px;
-    background-color: #F7B267;
+    background-color: #F27059;
     color: #000;
 }
 
 .leftnav {
     overflow: auto;
-    background-color: #F7B267;
+    background-color: #F27059;
     position: fixed;
     left: 0;
     padding: 12px;
@@ -45,7 +45,7 @@ body {
 
 .leftnav ul a {
     display: inline-block;
-    color: #F25C54;
+    color: #000;
     text-decoration: none;
 }
 
