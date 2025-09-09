@@ -34,6 +34,7 @@ body {
     position: fixed;
     left: 0;
     padding: 12px;
+    width: 180px;
 }
 
 .leftnav ul {
@@ -44,6 +45,7 @@ body {
 }
 
 .leftnav ul a {
+    width: 180px;
     display: inline-block;
     color: #000;
     text-decoration: none;
