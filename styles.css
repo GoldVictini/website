@@ -24,13 +24,12 @@ body {
     left: 208px;
     width: 500px;
     padding: 18px;
-    background-color: #F79D65;
+    background-color: #F7B267;
 }
 
 .leftnav {
-    background-color: #F79D65;
+    background-color: #F7B267;
     position: fixed;
-    top: 0;
     left: 0;
     padding: 12px;
 }
