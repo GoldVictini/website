@@ -21,10 +21,11 @@ body {
 .frontpage {
     z-index: 1;
     position: absolute;
-    left: 208px;
+    left: 180px;
     width: 500px;
     padding: 18px;
     background-color: #F7B267;
+    color: #F25C54;
 }
 
 .leftnav {
@@ -37,11 +38,16 @@ body {
 
 .leftnav ul {
     list-style-type: none;
-    padding: 0;        
-    margin: 0;
-    color: #F25C54;
+    padding-bottom: 5px;        
+    margin-bottom: 5px;
+    border-bottom: 3px dotted #F27059;
 }
 
+.leftnav ul a {
+    display: inline-block;
+    color: #F25C54;
+    text-decoration: none;
+}
 
 
 
