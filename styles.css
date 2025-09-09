@@ -49,7 +49,7 @@ body {
     text-decoration: none;
 }
 
-.nav ul a:hover, .nav ul a:focus {
+.leftnav ul a:hover, .nav ul a:focus {
     color: #FFF;
     background-color: #F25C54;
     font-weight: bold;
