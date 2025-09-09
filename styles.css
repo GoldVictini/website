@@ -21,11 +21,11 @@ body {
 .frontpage {
     z-index: 1;
     position: absolute;
-    left: 180px;
+    left: 190px;
     width: 500px;
     padding: 18px;
     background-color: #F7B267;
-    color: #F25C54;
+    color: #000;
 }
 
 .leftnav {
