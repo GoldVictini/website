@@ -33,13 +33,12 @@ body {
     background-color: #F79D65;
     position: fixed;
     left: 0;
-    padding: 12px;
-    width: 180px;
+    width: 190px;
 }
 
 .leftnav ul {
     list-style-type: none;
-    padding-bottom: 5px;        
+    padding: 0px 0px 0px 5px;        
     margin-bottom: 5px;
     border-bottom: 2px dotted #F27059;
 }
