@@ -27,11 +27,18 @@ body {
     background-color: #F79D65;
 }
 
+.leftnav {
+    background-color: #F79D65;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 12px;
+}
+
 .leftnav ul {
     list-style-type: none;
     padding: 0;        
     margin: 0;
-    background-color: #F79D65;
     color: #F25C54;
 }
 
