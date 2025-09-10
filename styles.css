@@ -4,6 +4,7 @@ html {
     background-size: contain;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-position: center top;
     background-color: #000;
 
     scrollbar-color: #fff #000;
@@ -21,7 +22,7 @@ body {
 .frontpage {
     z-index: 1;
     position: absolute;
-    left: 200px;
+    left: 240px;
     width: 500px;
     padding: 18px;
     background-color: #F79D65;
