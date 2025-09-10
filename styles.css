@@ -34,17 +34,18 @@ body {
     background-color: #F79D65;
     position: fixed;
     left: 0;
-    width: 190px;
+    width: 180px;
 }
 
 .leftnav ul {
     list-style-type: none;
-    padding: 0px 0px 0px 5px;        
+    padding: 0px 0px 0px 0px;        
     margin-bottom: 5px;
     border-bottom: 2px dotted #F27059;
 }
 
 .leftnav ul a {
+    padding-left: 5px;
     width: 180px;
     display: inline-block;
     color: #000;
