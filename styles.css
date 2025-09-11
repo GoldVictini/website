@@ -107,72 +107,72 @@ h5 {
 #reuniclus {
   position: absolute;
   left: 160px;
-  top: 160px;
-  z-index: 4;
+  top: 200px;
+  z-index: 6;
 }
 
 #zoroaster {
   position: absolute;
   left: 80px;
-  top: 80px;
-  z-index: 2;
+  top: 120px;
+  z-index: 4;
 }
 
 #wooper {
   position: absolute;
   left: 20px;
-  top: 100px;
-  z-index: 6;
+  top: 140px;
+  z-index: 8;
 }
 
 #doge {
   position: absolute;
   left: 280px;
-  top: 80px;
-  z-index: 7;
+  top: 120px;
+  z-index: 9;
 }
 
 
 #frog {
   position: absolute;
   left: 60px;
-  top: 240px;
-  z-index: 8;
+  top: 280px;
+  z-index: 10;
 }
 
 #hubert {
   position: absolute;
   left: 800px;
-  top: 400px;
-  z-index: 1;
+  top: 440px;
+  z-index: 3;
 }
 
 #cat {
   position: absolute;
   left: 500px;
-  top: 30px;
-  z-index: 2;
+  top: 70px;
+  z-index: 4;
 }
 
 #goose {
   position: absolute;
   left: 400px;
-  top: 50px;
-  z-index: 3;
+  top: 90px;
+  z-index: 5;
 }
 
 #spongebob {
   position: absolute;
   left: 110px;
-  top: 380px;
-  z-index: 1;
+  top: 420px;
+  z-index: 3;
 }
 
 #penguin {
   position: absolute;
   left: 300px;
-  top: 450px;
-  z-index: 3;
+  top: 490px;
+  z-index: 5;
 }
 
 
