@@ -95,6 +95,12 @@ h5 {
     z-index: 1050 !important;
 }
 
+
+.card-title {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    height: 2.5rem;
+}
 .card-footer {
     font-size: 0.8rem;
     padding-top: 0.25rem;
