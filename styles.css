@@ -78,13 +78,18 @@ body {
 
 
 
-h1 {
+.pagetitle {
   font-weight: 700;
-  font-size: 39px;
+  font-size: 2.4em;
 }
 
+.pagesubtitle {
+  font-weight: 500;
+}
+
+
 h5 {
-  font-weight: 700;
+  font-weight: 400;
 }
 
 .modal-backdrop {
@@ -107,6 +112,7 @@ h5 {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     height: 2.5rem;
+    margin: 0rem;
 }
 .card-footer {
     font-size: 0.8rem;
