@@ -95,7 +95,14 @@ h5 {
     z-index: 1050 !important;
 }
 
-
+.card { 
+    margin: 2rem;
+} 
+.card-body {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    height: auto;
+}
 .card-title {
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
