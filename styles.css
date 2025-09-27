@@ -84,13 +84,10 @@ body {
 }
 
 .pagesubtitle {
-  font-weight: 500;
+    font-weight: 500;
+    margin-bottom: 2rem;
 }
 
-
-h5 {
-  font-weight: 400;
-}
 
 .modal-backdrop {
     z-index: 1040 !important;
@@ -109,6 +106,7 @@ h5 {
     height: auto;
 }
 .card-title {
+    font-weight: 400;
     padding-top: 0.5rem;
     padding-bottom: 0.5rem;
     height: 2.5rem;
